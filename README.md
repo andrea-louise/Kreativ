@@ -1,5 +1,4 @@
 # Kreativ
-Tela de Cadastro Kreativ
 
 ## Descrição
 O Kreativ consiste em uma página de registro , focado em Desenvolvimento Front End.
